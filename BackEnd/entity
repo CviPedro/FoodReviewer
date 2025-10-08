@@ -1,0 +1,5 @@
+BackEnd/entity/Ingrediente.java
+BackEnd/entity/Alergenico.java
+BackEnd/entity/Produto.java
+BackEnd/entity/TipoProduto.enum
+BackEnd/entity/Usuario.java
